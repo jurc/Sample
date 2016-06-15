@@ -1,3 +1,3 @@
 # Sample Project
 
-Learning GIT
+Learning GIT, lots of functions
