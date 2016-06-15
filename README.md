@@ -1,3 +1,3 @@
-# sample
+# Sample Project
 
 Learning GIT
